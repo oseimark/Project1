@@ -6,3 +6,7 @@ x = ("Mark","21","starfish")
 print(name)
 print(id)
 print(group)
+
+
+tuple1 = ('my','name','is','mark','callme')
+print(tuple1[1:3])
